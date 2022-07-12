@@ -1,0 +1,27 @@
+.bg {
+    background-color: #ffebcd;
+}
+
+h1{
+    color: #000000;
+}
+
+h2 {
+    color: #800000;
+}
+
+.text-black {
+    color: #000000;
+}
+
+.text-red-100{
+    color: #ff0000;
+}
+
+.text-red-200 {
+    color: #d03333;
+}
+
+.grid {
+    grid-column: auto;
+}
